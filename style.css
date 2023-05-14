@@ -34,6 +34,7 @@ h1,h2,h3, h6 {
     padding: 2rem;
     border: 0.1rem white solid;
     backdrop-filter:blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     margin: 0rem;
 }
 
@@ -56,6 +57,7 @@ h6 {
 h2:hover, h1:hover, h3:hover, h6:hover, a:hover {
     border-color: #ff828a;
     backdrop-filter:blur(0px);
+    -webkit-backdrop-filter: blur(0px);
     transition: border-color 0.3s;
     transition: backdrop-filter 0.3s;
 }
@@ -71,6 +73,7 @@ a {
     font-size: 2rem;
     padding: 1rem 4rem;
     backdrop-filter:blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     border: 0.1rem white solid;
 }
 
