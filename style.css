@@ -1,28 +1,92 @@
 body {
-    background-color: black;
     margin: 0rem;
     padding: 0rem;
+    background-image: url('background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
 
 :root {
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:"Source Code Pro", monospace, Verdana, Geneva, Tahoma, sans-serif;
 }
 
-div {
+#mainSideContainer {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    
+    padding: 2rem;
+    flex-wrap:wrap;
+    gap:1rem;
 }
+h1,h2,h3, h6 {
+    padding: 2rem;
+    border: 0.1rem white solid;
+    backdrop-filter:blur(4px);
+    margin: 0rem;
+}
+
 h1 {
-    font-size: 10em;    
+    font-size: 10rem;   
+    padding: 5rem; 
+}
+h2 {
+    font-size: 5rem;
+}
+h3 {
+    font-size: 3rem;
+}
+h6 {
+    font-size: 1rem;
+    border: none;
+    padding: 1rem;
 }
 
+h2:hover, h1:hover, h3:hover, h6:hover, a:hover {
+    border-color: #ff828a;
+    backdrop-filter:blur(0px);
+    transition: border-color 0.3s;
+    transition: backdrop-filter 0.3s;
+}
 
-@media (max-width: 680px) {
-    h1{ 
-        writing-mode: vertical-lr;
+#sideFlex {
+    display: flex;
+    gap: 2rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 1rem 4rem;
+    backdrop-filter:blur(4px);
+    border: 0.1rem white solid;
+}
+
+a:hover {
+    color: #ff828a;
+    cursor: pointer;
+}
+
+@media (max-width: 680px) {      
+    h2{
+        font-size: 3rem;
+    }
+    #sideFlex {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    body {
+        background-image: url('background-phone.png');
     }
 
 }
