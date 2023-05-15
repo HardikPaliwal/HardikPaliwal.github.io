@@ -1,0 +1,30 @@
+body {
+    overflow: hidden;
+}
+#mainCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#sideFlex {
+    padding:0.5rem;
+}
+
+a {
+    padding-top: 1rem;
+    font-size: 1rem;
+}
+
+@media (max-width: 680px) {
+    h1{ 
+        writing-mode: vertical-lr;
+        padding: 1rem;
+        font-size: 8rem;
+    }
+    body {
+        overflow: scroll;
+    }
+
+}
