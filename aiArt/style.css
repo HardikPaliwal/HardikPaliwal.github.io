@@ -8,9 +8,15 @@ body {
     grid-template-columns: repeat(4, 1fr);
 
     grid-template-rows: repeat(4, 1fr);
-    gap:5px;
+    gap:2px;
 }
-#mainGallery > * {
-    background-color: blue;
-    height: 50px;
+.galleryImage {
+    width: 25vw;
+    height: 25vw;
+    object-fit: cover;
+
+}
+
+.galleryImage::after {
+    box-shadow:  inset 200px 200px white;
 }
