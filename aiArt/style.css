@@ -2,7 +2,9 @@ body {
     overflow-y: scroll;
     background: black;
 }
-
+:root {
+    color:black;
+}
 a {
     padding: 0px;
     border: none;

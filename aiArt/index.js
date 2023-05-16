@@ -1,1 +1,1 @@
-console.log("wassup")
+docu
