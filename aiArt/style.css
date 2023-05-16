@@ -1,22 +1,65 @@
 body {
-    overflow: scroll;
+    overflow-y: scroll;
     background: black;
 }
 
+a {
+    padding: 0px;
+    border: none;
+}
+a :hover {
+    box-shadow:  inset 200px 200px white;
+}
 #mainGallery {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-
-    grid-template-rows: repeat(4, 1fr);
-    gap:2px;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    overflow-x: hidden;
 }
 .galleryImage {
-    width: 25vw;
-    height: 25vw;
+    width: 16.6vw;
+    height: 16.6vw;
     object-fit: cover;
-
 }
 
 .galleryImage::after {
     box-shadow:  inset 200px 200px white;
+}
+
+
+
+
+@media (max-width: 1200px) {
+    .galleryImage {
+        width: 20vw;
+        height: 20vw;
+    }
+    #mainGallery {
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+    }
+
+}
+
+@media (max-width: 1000px) {
+    .galleryImage {
+        width: 25vw;
+        height: 25vw;
+    }
+    #mainGallery {
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+    }
+
+}
+
+@media (max-width: 680px) {
+    .galleryImage {
+        width: 33.3vw;
+        height: 33.3vw;
+    }
+    #mainGallery {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+    }
 }
