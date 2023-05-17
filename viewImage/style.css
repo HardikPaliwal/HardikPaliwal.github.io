@@ -1,11 +1,12 @@
 body {
+    margin: 0rem;
+    padding: 0rem;
     overflow-y: scroll;
     background: black;
 }
-
-a {
-    padding: 0px;
-    border: none;
+:root {
+    color: white;
+    font-family:"Source Code Pro", monospace, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #imageContainer {
@@ -16,18 +17,43 @@ a {
 
 #image{
     max-height: 100vh;
-    max-width: 75vw;
-    width:auto;
+    max-width: 80vw;
 }
 
 #grid{
-    display:grid;
-    grid-template-columns: 3fr 1fr;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.prompt {
+    color: rgb(199, 199, 199);
+    padding: 0.3rem;
+    font-size: 0.8rem;
+    max-height: 20%;
+    overflow: scroll;
+    border: 1px white solid;
 }
 #metadata {
-    background:white;
     height: 100vh;
     display:flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
+    padding: 1rem;
+    background-color: #202024;
+    overflow: scroll;
+}
+
+h3, h4, h5, h6, p {
+    margin: 0.5rem 0;
+}
+.prompt:hover {
+    border-color: #ff828a;
+
+}
+@media (max-width: 680px) {      
+    #grid{
+        display: flex;
+        flex-direction: column;
+    }
+
 }

@@ -9,13 +9,18 @@ a {
     padding: 0px;
     border: none;
 }
-a :hover {
-    box-shadow:  inset 200px 200px white;
+
+#returnHome {
+    padding: 1rem 4rem;
+    border: 0.1rem white solid;
+}
+#returnHome:hover{
+    border-color: #ff828a;
+
 }
 #mainGallery {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(6, 1fr);
     overflow-x: hidden;
 }
 .galleryImage {
@@ -24,12 +29,9 @@ a :hover {
     object-fit: cover;
 }
 
-.galleryImage::after {
-    box-shadow:  inset 200px 200px white;
-}
-
-
-
+.galleryImage:hover {
+    box-shadow: inset 0 0px 8px 200px rgba(255, 253, 253, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+  }
 
 @media (max-width: 1200px) {
     .galleryImage {

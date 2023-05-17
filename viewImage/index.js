@@ -4,3 +4,6 @@ const img = document.createElement('img');
 img.setAttribute("src", `../images/${imgId}`)
 img.setAttribute("id", "image")
 document.getElementById("imageContainer").appendChild(img)
+
+
+
