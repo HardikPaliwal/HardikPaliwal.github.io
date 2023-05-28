@@ -475,7 +475,7 @@ manualPrompt = {
         "WriteUp" : ""
     },
     "00028-3476976708" : {
-        "Title": "Alternate Earth 1",
+        "Title": "Our Masters",
         "WriteUp" : ""
     },
     "00098-1762213568" : {
@@ -550,8 +550,8 @@ for imagePath in images:
         metadata = {"Model" : "--", "Prompt": "--", "Negative Prompt": "--", "Steps": "--", "Sampler": "--", "CFG scale": "--", "Seed": "--", "Model": "--", "Date": os.path.getmtime(imagePath)}
         commandToThumbnail = "magick \"" + imagePath + "\" -thumbnail 400x400^ -gravity center -extent 400x400 -strip -quality 80  -interlace JPEG \"" + outputDirectory + "thumbnails\\" + fileName +".jpg\""
         commandToJpg = "magick \"" + imagePath + "\"  \"" + outputDirectory + "raw\\" + fileName +".jpg\""
-        run(commandToThumbnail)
-        run(commandToJpg)
+        # run(commandToThumbnail)
+        # run(commandToJpg)
 
         imagesMetaData[fileName+".jpg"] = metadata
 
