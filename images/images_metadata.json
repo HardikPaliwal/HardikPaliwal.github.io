@@ -1,536 +1,1076 @@
 {
-    "00002.jpg": {},
-    "00031.jpg": {},
-    "00152-243332738.jpg": {},
-    "00036.jpg": {},
-    "00038.jpg": {},
+    "gog.jpg": {
+        "Model": "midjourney-v4",
+        "Prompt": "The fire magician attending magic school",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1680209674.879,
+        "Title": "The fire mage attending magic school"
+    },
+    "00031.jpg": {
+        "Model": "dreamshaper_4BakedVae",
+        "Prompt": "(extremely detailed CG unity 8k wallpaper), oil on matte canvas, sharp details, lightning,  lighthouse on a cliff in the middle of a storm, stormy sea, heavy winds, dark skies, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha",
+        "Negative Prompt": " (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
+        "Steps": "25",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "3843182206",
+        "Date": 1680228534.446
+    },
+    "00152-243332738.jpg": {
+        "Model": "dreamshaper_4BakedVae",
+        "Prompt": "( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha, ",
+        "Negative Prompt": " (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
+        "Steps": "25",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "243332738",
+        "Date": 1680232919.135
+    },
+    "00036.jpg": {
+        "Model": "dreamshaper_4BakedVae",
+        "Prompt": "eyes",
+        "Negative Prompt": " canvas frame, cartoon, 3d, ((disfigured)), ((bad art)), ((deformed)),((extra limbs)),((close up)),((b&w)), wierd colors, blurry, (((duplicate))), ((morbid)), ((mutilated)), [out of frame], extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), Photoshop, video game, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, body out of frame, blurry, bad art, bad anatomy, 3d render",
+        "Steps": "25",
+        "Sampler": "DPM2 a Karras",
+        "CFG scale": "7",
+        "Seed": "1310760846",
+        "Date": 1680233881.827
+    },
+    "00038.jpg": {
+        "Model": "deliberate_v2",
+        "Prompt": "(end of the world), epic, realistic, (apocalyptic), artstation, complex background, cinematic shot, stars, china",
+        "Negative Prompt": "",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "823060884",
+        "Date": 1680413034.02
+    },
     "00039.jpg": {
+        "Model": "dreamshaper_4BakedVae",
         "Prompt": "highly detailed",
         "Negative Prompt": " blurry",
         "Steps": "20",
         "Sampler": "Euler a",
         "CFG scale": "7",
         "Seed": "1058359944",
-        "Model": "dreamshaper_4BakedVae",
-        "Denoising strength": "0.03"
+        "Date": 1680470085.95
     },
-    "00429-250449126.jpg": {},
-    "00693-411154658.jpg": {},
-    "00740-411154669.jpg": {},
-    "00772-411154671.jpg": {},
-    "00798-411154658.jpg": {},
-    "00061-641389070.jpg": {},
-    "gog_Surrealist_anime_illustrated_starry_night_painting_transorm_b48b9d77-5198-4587-b39f-9dccd92db4a4.jpg": {},
-    "gog_Surrealist_anime_illustrated_starry_night_painting_transorm_3a2320d7-c289-4b29-b263-da19c191a48d.jpg": {},
-    "00003-3640860567.jpg": {},
+    "00429-250449126.jpg": {
+        "Model": "deliberate_v2",
+        "Prompt": "fantasy landscape with a single extremely tall  glowing, energy, magic obelisk  , ((surrounded by only water)) by greg rutkowski, intricate details",
+        "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, pointy, misty, grass",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "5",
+        "Seed": "250449126",
+        "Date": 1680556663.873
+    },
+    "00693-411154658.jpg": {
+        "Model": "deliberate_v2",
+        "Prompt": "stunning vector art landscape, minimalism, road and glory",
+        "Negative Prompt": "",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "5",
+        "Seed": "411154658",
+        "Date": 1680560480.744
+    },
+    "00740-411154669.jpg": {
+        "Model": "deliberate_v2",
+        "Prompt": "stunning vector art landscape, minimalism",
+        "Negative Prompt": "",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "5",
+        "Seed": "411154669",
+        "Date": 1680560792.446
+    },
+    "00772-411154671.jpg": {
+        "Model": "deliberate_v2",
+        "Prompt": "The interior of a cathedral in hell full of demons, insanely ornamented with baroque evil golden decorations, black feathers ornaments , Red embers , ominous devilish altar made of bones, red light coming from the windows, mysterious atmosphere, octane, greg rutkowski, artstation",
+        "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "3",
+        "Seed": "411154671",
+        "Date": 1680562981.937
+    },
+    "00798-411154658.jpg": {
+        "Model": "dreamshaper_4BakedVae",
+        "Prompt": "St Petersburg Mosque is the gates to heaven, photorealistic, intricate detail, unreal engine 5, artstation, gold",
+        "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "3",
+        "Seed": "411154658",
+        "Date": 1680565863.992
+    },
+    "00061-641389070.jpg": {
+        "Model": "dreamshaper_4BakedVae",
+        "Prompt": "(Anime) (highly stylized) Tokyo Street Curving to the Right, Street Connected from Right Side of Canvas, Crosswalks on Either Side of Street, Power-lines Along Left Side of Street, Varias Street Signs Along Street, Trees Along Left Side of Street, One Street Sign in Foreground of Image., ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
+        "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ((girl)), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "641389070",
+        "Date": 1680584713.952
+    },
+    "gog_Surrealist_anime_illustrated_starry_night_painting_transorm_b48b9d77-5198-4587-b39f-9dccd92db4a4.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Surrealist anime illustrated starry night painting transorming into reality cinematic shot, volumetric lighting, hayao miyazaki art style, studio ghibli style --ar 2:3 -q 2",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1680586434.618,
+        "Title": "Start of an adventure 2"
+    },
+    "gog_Surrealist_anime_illustrated_starry_night_painting_transorm_3a2320d7-c289-4b29-b263-da19c191a48d.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Surrealist anime illustrated starry night painting transorming into reality cinematic shot, volumetric lighting, hayao miyazaki art style, studio ghibli style --ar 2:3 --q 2",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1680586558.618,
+        "Title": "Start of an adventure 1"
+    },
+    "00003-3640860567.jpg": {
+        "Model": "deliberate_v2",
+        "Prompt": "--",
+        "Negative Prompt": "--",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "3640860567",
+        "Date": 1681850750.302
+    },
     "00021-2042024878.jpg": {
+        "Model": "deliberate_v2",
         "Prompt": "old couple walking, ((Studio Ghibli)) and Greg Rutkowski, artstation, surreal,cinematic shot, hayao miyazaki art style, vibrant",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler a",
         "CFG scale": "7",
         "Seed": "2042024878",
-        "Model": "deliberate_v2",
-        "Denoising strength": "0.1"
+        "Date": 1681857501.597
     },
-    "00038-209373098.jpg": {},
+    "00038-209373098.jpg": {
+        "Model": "dreamshaper_4BakedVae",
+        "Prompt": "The sound of silence, detailed illustration, digital art, overdetailed art, concept art, highly saturated colors, detailed illustration, hd, 4k, digital art, overdetailed art, concept art, Dan Mumford, Krzysztof Maziarz, trending on artstation ",
+        "Negative Prompt": "tsSamYang_offset:0.2>",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "209373098",
+        "Date": 1681949700.877
+    },
     "00033-1182751684.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "Heun",
         "CFG scale": "7",
         "Seed": "1182751684",
-        "Model": "a60cfaa90d",
-        "Denoising strength": "dreamshaper_5BakedVae"
+        "Date": 1682025202.047
     },
-    "gog_illustration_of_jupiter_clouds_by_dan_mumford_alien_landsca_38b12d18-bbd2-430e-b105-fba6c75e1cc5.jpg": {},
-    "gog_Cyberpunk_city_view_from_afar_across_a_lake_Massive_city._E_5bd9746b-d0fc-404c-9328-e083cec149f7.jpg": {},
-    "00726-4111332528.jpg": {},
-    "00719-3834343332.jpg": {},
-    "gog_Dreaming_the_cloudy_night_sky_dark_colors_fire_in_sky_illus_ad7ced97-126a-4819-b399-4e462d5233e5.jpg": {},
-    "gog_The_Magic_of_the_winter_solstice_magical_moment_Snow_cloudy_b3607336-cfa7-40e1-bf46-a4aec8c7d981.jpg": {},
-    "gog_road_leading_to_the_distance_artstation_night_dark_horror_a_bac2e4e4-0517-430d-bc45-433d7ab2cd9c.jpg": {},
-    "00031-2142437544.jpg": {},
+    "gog_illustration_of_jupiter_clouds_by_dan_mumford_alien_landsca_38b12d18-bbd2-430e-b105-fba6c75e1cc5.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Illustration of jupiter clouds by dan mumford, alien landscape and vegetation, epic scene, a lot of swirling clouds, high exposure, realistic, vibrant blue and orange tinted colors, uhd  --ar 9:16 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682113391.398,
+        "Title": "In an alternate universe..."
+    },
+    "gog_Cyberpunk_city_view_from_afar_across_a_lake_Massive_city._E_5bd9746b-d0fc-404c-9328-e083cec149f7.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Cyberpunk city view from afar across a lake, Massive city. Endless skyscrapers, Beautiful, bright and clear, futuristic, night time, large signage, cyberpunk colors, sky scrapers, without people, --ar 16:9 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682119498.438,
+        "Title": "Chicago in 50 years"
+    },
+    "00726-4111332528.jpg": {
+        "Model": "diffusionBrushEverythingSFWNSFWAll_v10",
+        "Prompt": "illustration of jupiter clouds by dan mumford, alien landscape and vegetation, epic scene, high exposure, highly detailed, realistic, vibrant blue tinted colors, uhd, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
+        "Negative Prompt": " (sfw), easynegative, ,badhandv4, greyscale, monochrome, water mark, signature, bad anatomy, bad proportions, deformed, poorly drawn hands, extra fingers, extra limbs, blurry, girl, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "4111332528",
+        "Date": 1682121534.157
+    },
+    "00719-3834343332.jpg": {
+        "Model": "dreamshaper_5BakedVae",
+        "Prompt": "illustration of jupiter clouds by dan mumford, alien landscape and vegetation, epic scene, a lot of swirling clouds, high exposure, highly detailed, realistic, vibrant blue tinted colors, uhd, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
+        "Negative Prompt": " (sfw), easynegative, ,badhandv4, greyscale, monochrome, water mark, signature, bad anatomy, bad proportions, deformed, poorly drawn hands, extra fingers, extra limbs, blurry, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "3834343332",
+        "Date": 1682121542.221
+    },
+    "gog_Dreaming_the_cloudy_night_sky_dark_colors_fire_in_sky_illus_ad7ced97-126a-4819-b399-4e462d5233e5.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Dreaming, the cloudy night sky, dark colors, fire in sky, illustration, artistic, background",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682168559.25,
+        "Title": "The Felon or the Victim?"
+    },
+    "gog_The_Magic_of_the_winter_solstice_magical_moment_Snow_cloudy_b3607336-cfa7-40e1-bf46-a4aec8c7d981.jpg": {
+        "Model": "midjourney",
+        "Prompt": "The Magic of the winter solstice, magical moment, Snow, cloudy starry night, old oil painting, Rococo style, hunting atmosphere, fantasy, Dark fantasy, cinematic lighting, romantic atmosphere, divine, Ultra realistic, 4k, --ar 2:3",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682197328.668,
+        "Title": "Waiting"
+    },
+    "gog_road_leading_to_the_distance_artstation_night_dark_horror_a_bac2e4e4-0517-430d-bc45-433d7ab2cd9c.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Road leading to the distance, artstation, night, dark horror, atmosphere, artgerm, greg rutkowski, red moon in the distance --v 5 --ar 2:3",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682295034.558,
+        "Title": "A Road better left untravelled"
+    },
+    "00031-2142437544.jpg": {
+        "Model": "v1-5-pruned-emaonly",
+        "Prompt": "James jean, landscape seas, stormy skies, Powerful, Rim Lighting, Artificial Lighting, Cinematic Lighting, Post - Production<lora:adamsArtworkStyle_v01:1>",
+        "Negative Prompt": "er: Euler a, CFG scale: 7, Seed: 2142437544, Size: 1512x1000, Model hash: 6ce0161689, Model: v1-5-pruned-emaonly, Denoising strength: 0.75, Mask blur: 4",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "2142437544",
+        "Date": 1682295738.103
+    },
     "00509-2636522860.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "night festival, magical scene <lora:ruinsAndLight_v10:1>",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler a",
         "CFG scale": "5",
         "Seed": "2636522860",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "True"
+        "Date": 1682297467.135
     },
     "00489-2937580195.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "night festival, magical scene <lora:ruinsAndLight_v10:1>",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler a",
         "CFG scale": "5",
         "Seed": "2937580195",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "True"
+        "Date": 1682296864.093
     },
     "00514-818386911.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "night festival, magical scene <lora:ruinsAndLight_v10:1>",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler a",
         "CFG scale": "5",
         "Seed": "818386911",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "True"
+        "Date": 1682297622.249
     },
     "00503-642708405.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "night festival, magical scene <lora:ruinsAndLight_v10:1>",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler a",
         "CFG scale": "5",
         "Seed": "642708405",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "True"
+        "Date": 1682297284.721
     },
-    "00015-487427391.jpg": {},
-    "gog_Low_angle_image_of_magneto_in_a_tense_action_-_packed_scene_456bf1ce-43f5-4ad5-a619-18db9d3b17e0.jpg": {},
-    "gog_Balrog_rushes_towards_the_viewer_fire_spitting_thick_black__6fa04709-eedb-46b5-8e17-a327059c9f9f.jpg": {},
-    "gog_superman_shooting_lasers_from_his_eyes_in_the_style_of_ross_bd9b2132-5c6f-4136-8cdb-3c58372fe986.jpg": {},
-    "gog_Creepy_woman_with_the_venom_symbiote_dark_fantasy_in_the_st_e8e67085-75fe-4ba1-aaa5-128c7c92eda8.jpg": {},
-    "gog_man_made_up_of_lightning_in_the_style_Hajime_Isayama_Alex_H_f09529b1-e8ee-4328-8243-907cd94cd119.jpg": {},
-    "gog_a_blood_devil_in_the_style_Hajime_Isayama_Alex_Horley_Sergi_e758bfb5-51ae-4c36-9b8a-8e1cbfc539d0.jpg": {},
-    "gog_God_in_the_style_of_Hajime_Isayama_Alex_Horley_Sergio_Toppi_5dea9f30-00e0-4706-bf5f-3ec63fab6703.jpg": {},
-    "gog_God_ascending_in_an_ethereal_gas_cloud_nebula_tarot_card_pa_a63377f0-8093-4dc6-a3d5-77405b8a8e99.jpg": {},
-    "00122-3067904967.jpg": {},
+    "00015-487427391.jpg": {
+        "Model": "v2-1_512-ema-pruned",
+        "Prompt": "space background <lora:theovercomer8sContrastFix_sd21768:1>",
+        "Negative Prompt": "er: Euler a, CFG scale: 7, Seed: 487427391, Size: 1000x1000, Model hash: 88ecb78256, Model: v2-1_512-ema-pruned, Denoising strength: 0.6, Mask blur: 2",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "487427391",
+        "Date": 1682461464.819
+    },
+    "gog_Low_angle_image_of_magneto_in_a_tense_action_-_packed_scene_456bf1ce-43f5-4ad5-a619-18db9d3b17e0.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Low angle image of magneto in a tense, action - packed scene, with explosive energy and bold dynamic composition, in the style of Ross Tran --ar 2:3 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682881484.144,
+        "Title": "Magneto if he wasn't always catching L's"
+    },
+    "gog_Balrog_rushes_towards_the_viewer_fire_spitting_thick_black__6fa04709-eedb-46b5-8e17-a327059c9f9f.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Balrog rushes towards the viewer, fire spitting, thick black smoke, dark fantasy style, in the style of ross tran --v 5 --ar 2:3",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682882084.132,
+        "Title": "Fire Mage Gladiator"
+    },
+    "gog_superman_shooting_lasers_from_his_eyes_in_the_style_of_ross_bd9b2132-5c6f-4136-8cdb-3c58372fe986.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Superman shooting lasers from his eyes in the style of ross tran --ar 2:3 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682882516.562,
+        "Title": "Homelander if he wasn't always catching L's"
+    },
+    "gog_Creepy_woman_with_the_venom_symbiote_dark_fantasy_in_the_st_e8e67085-75fe-4ba1-aaa5-128c7c92eda8.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Man made up of lightning in the style Hajime Isayama& Alex Horley& Sergio Toppi --ar 2:3 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682887845.847,
+        "Title": "Main Character Vibes"
+    },
+    "gog_man_made_up_of_lightning_in_the_style_Hajime_Isayama_Alex_H_f09529b1-e8ee-4328-8243-907cd94cd119.jpg": {
+        "Model": "midjourney",
+        "Prompt": "A blood devil in the style Hajime Isayama& Alex Horley& Sergio Toppi --ar 2:3 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682905611.341,
+        "Title": "Blood and Dark"
+    },
+    "gog_a_blood_devil_in_the_style_Hajime_Isayama_Alex_Horley_Sergi_e758bfb5-51ae-4c36-9b8a-8e1cbfc539d0.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Creepy woman with the venom symbiote, dark fantasy, in the style of ross tran --ar 1:2 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682909682.228,
+        "Title": "Elizabeth holmes staring in venom"
+    },
+    "gog_God_in_the_style_of_Hajime_Isayama_Alex_Horley_Sergio_Toppi_5dea9f30-00e0-4706-bf5f-3ec63fab6703.jpg": {
+        "Model": "midjourney",
+        "Prompt": "God in the style of Hajime Isayama& Alex Horley& Sergio Toppi --ar 2:3 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682909845.585,
+        "Title": "Hell's Pilgrim"
+    },
+    "gog_God_ascending_in_an_ethereal_gas_cloud_nebula_tarot_card_pa_a63377f0-8093-4dc6-a3d5-77405b8a8e99.jpg": {
+        "Model": "midjourney",
+        "Prompt": "God ascending in an ethereal gas cloud nebula, tarot card painted by yoann lossel and peter mohrbacher and with multiple matte black boarders on black paper background, gold foil accents --ar 2:3 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1682979781.72,
+        "Title": "Tarot 1"
+    },
+    "00122-3067904967.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "A real photographic landscape painting with incomparable reality, Super wide, battlefield, crator, canyon, Starry night, Volumetric lighting, Clearing, Realistic, James gurney, artstation, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
+        "Negative Prompt": " ((stars, milky way)), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "5",
+        "Seed": "3067904967",
+        "Date": 1682982274.416
+    },
     "00131-2716900311.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "A real photographic landscape painting with incomparable reality, Super wide, Starry night, Volumetric lighting, Clearing, Realistic, James gurney, artstation",
         "Negative Prompt": " ((milky way)), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "5",
         "Seed": "2716900311",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1682982741.249
     },
     "00149-2716900311.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "((Studio Ghibli)) and Greg Rutkowski, artstation, surreal,cinematic shot, hayao miyazaki art style, vibrant",
         "Negative Prompt": " ((milky way)), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "5",
         "Seed": "2716900311",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1682985722.154
     },
-    "00042-280177144.jpg": {},
-    "00068-1741522760.jpg": {},
+    "00042-280177144.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "massive magic power line into the sky, egypt, pyramids, ( extremely detailed CG unity 8k wallpaper), birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha, night, ((Studio Ghibli)) and Greg Rutkowski, artstation, surreal,cinematic shot, hayao miyazaki art style, vibrant",
+        "Negative Prompt": " (roman), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), (( milky way)), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "280177144",
+        "Date": 1683068198.667
+    },
+    "00068-1741522760.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "bright, massive magic power line into the sky, egypt, 1 pyramid, ( extremely detailed CG unity 8k wallpaper), birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha, night,, ((Studio Ghibli)) and Greg Rutkowski, artstation, surreal,cinematic shot, hayao miyazaki art style, vibrant",
+        "Negative Prompt": " (roman), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), (( milky way)), clouds, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "1741522760",
+        "Date": 1683071616.542
+    },
     "00112-968907745.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "giant monster guardian ( extremely detailed CG unity 8k wallpaper) , darkwater, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha, night, ((Studio Ghibli)) and Greg Rutkowski, artstation, surreal,cinematic shot, hayao miyazaki art style, vibrant",
         "Negative Prompt": " (roman), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), milky way, clouds,tall, multi layered building, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "968907745",
-        "Model": "lyriel_v15",
-        "Denoising strength": "True"
+        "Date": 1683073298.877
     },
-    "00125-2427434854.jpg": {},
-    "00129-1981414666.jpg": {},
-    "00052.jpg": {},
+    "00125-2427434854.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), octane render, ultra high res, ultra-detailed, photon mapping, physically-based rendering, ue5, ((island sanctuary)), ((ancient fallen kingdom)), ((reflections in water)), ((raytracing)), ((drowned city)) (((night)))",
+        "Negative Prompt": " border, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft",
+        "Steps": "25",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "2427434854",
+        "Date": 1683077604.648
+    },
+    "00129-1981414666.jpg": {
+        "Model": "dreamshaper_5BakedVae",
+        "Prompt": "(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), octane render, ultra high res, ultra-detailed, photon mapping, physically-based rendering, ue5, ((island sanctuary)), ((ancient fallen kingdom)), ((reflections in water)), ((raytracing)), ((drowned city)) (((night)))",
+        "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft",
+        "Steps": "25",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "1981414666",
+        "Date": 1683078856.884
+    },
+    "00052.jpg": {
+        "Model": "dreamshaperv4",
+        "Prompt": "night festival, magical scene <lora:ruinsAndLight_v10:1>",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1683159770.775,
+        "Title": "A King's Dream"
+    },
     "00118-4282801278.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "<lora:adamsArtworkStyle_v01:0.5> prince, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " girl, bird, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "25",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "4282801278",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.5"
+        "Date": 1683325161.97
     },
     "00009-2363580985.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "night sky, ((best quality)), ((masterpiece)), (detailed), (realistic), Abstract, Salvador Dali, The Persistence of Memory, mythological",
         "Negative Prompt": " girl, bird,  trees, wood, cancer growth, (milky way), 3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular, over saturated, over saturated, over saturated",
         "Steps": "25",
         "Sampler": "Euler a",
         "CFG scale": "7",
         "Seed": "2363580985",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.75"
+        "Date": 1683389801.188
     },
     "00040-3614393704.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "night sky over a beautiful landscape, ((best quality)), ((masterpiece)), (detailed), (realistic), Abstract, Salvador Dali, mythological, egypt, pryamids, (massive beam of power in the sky), (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), octane render, ultra high res, ultra-detailed, photon mapping, physically-based rendering, ue5, raytracing, drowned city (night)",
         "Negative Prompt": " girl, bird, trees, wood, cancer growth, buildings, gold, human made, mily way, 3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular, over saturated, over saturated, over saturated, milky way",
         "Steps": "25",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "3614393704",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1683418275.688
     },
     "00018-479504246.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "((((clouds)))), ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " girl, bird, trees, wood, cancer growth, buildings, gold, human made, mily way, 3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular, over saturated, over saturated, over saturated, milky way, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "25",
         "Sampler": "Euler a",
         "CFG scale": "7",
         "Seed": "479504246",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.75"
+        "Date": 1683420501.219
     },
-    "00067-1062072553.jpg": {},
+    "00067-1062072553.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "<lora:ireliav2-000034:0.7> irelia from league of legends, beautiful girl, ((perfect face)), (((full body))),((sexy)), (small breasts), soft girl abs, (1 girl), hdr, (natural skin texture, hyperrealism, soft light, sharp:1.2), game art, key visual, surreal, ((wielding magic)), ((nsfw)), ((masturbating)), (lingerie), silk clothes, (((small breasts))), ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha",
+        "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
+        "Steps": "25",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "1062072553",
+        "Date": 1683433568.653
+    },
     "00033-3920862506.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "beautiful,sexy, princess, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "3920862506",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "0.7"
+        "Date": 1682876789.479
     },
     "00117-2055791717.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "sky, black hole, supernovae, masterpiece, best quality, anime, highly detailed background, perfect lighting, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, skin imperfections, earth, C:\\Users\\hardi\\Documents\\Code\\stable-diffusion-webui\\outputs\\txt2img-images\\2023-05-07\\00079-516150314.png(((night))), ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " (face:1.5), people, 1girl, 1boy, 1 woman, EasyNegative, (low quality worst quality:1.4), art by bad-artist, normal quality, painting, drawing, sketch, cartoon, anime, render, 3d, blurry, deformed, disfigured, morbid, mutated, bad anatomy, bad art, galaxy, (milky way), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "2055791717",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "0.7"
+        "Date": 1683497087.933
     },
     "00122-2762857694.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "sky, black hole, supernovae, masterpiece, best quality, anime, highly detailed background, perfect lighting, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, skin imperfections, earth, C:\\Users\\hardi\\Documents\\Code\\stable-diffusion-webui\\outputs\\txt2img-images\\2023-05-07\\00079-516150314.png (((night))), ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " (face:1.5), people, 1girl, 1boy, 1 woman, EasyNegative, (low quality worst quality:1.4), art by bad-artist, normal quality, painting, drawing, sketch, cartoon, anime, render, 3d, blurry, deformed, disfigured, morbid, mutated, bad anatomy, bad art, galaxy, (milky way), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "2762857694",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "0.5"
+        "Date": 1683497510.909
     },
     "00124-2762857696.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "sky, black hole, supernovae, masterpiece, best quality, anime, highly detailed background, perfect lighting, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, skin imperfections, earth, C:\\Users\\hardi\\Documents\\Code\\stable-diffusion-webui\\outputs\\txt2img-images\\2023-05-07\\00079-516150314.png (((night))), ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " (face:1.5), people, 1girl, 1boy, 1 woman, EasyNegative, (low quality worst quality:1.4), art by bad-artist, normal quality, painting, drawing, sketch, cartoon, anime, render, 3d, blurry, deformed, disfigured, morbid, mutated, bad anatomy, bad art, galaxy, (milky way), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "2762857696",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "0.5"
+        "Date": 1683497524.405
     },
     "00126-3575865842.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "sky, black hole, supernovae, masterpiece, best quality, anime, highly detailed background, perfect lighting, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, skin imperfections, earth, C:\\Users\\hardi\\Documents\\Code\\stable-diffusion-webui\\outputs\\txt2img-images\\2023-05-07\\00079-516150314.png (((night))), ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " (face:1.5), people, 1girl, 1boy, 1 woman, EasyNegative, (low quality worst quality:1.4), art by bad-artist, normal quality, painting, drawing, sketch, cartoon, anime, render, 3d, blurry, deformed, disfigured, morbid, mutated, bad anatomy, bad art, galaxy, (milky way), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "3575865842",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "0.5"
+        "Date": 1683497873.411
     },
     "00130-1979575380.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "sky, black hole, supernovae, masterpiece, best quality, anime, highly detailed background, perfect lighting, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, best quality, 4k, 8k, ultra highres, raw photo in hdr, sharp focus, intricate texture, skin imperfections, earth, C:\\Users\\hardi\\Documents\\Code\\stable-diffusion-webui\\outputs\\txt2img-images\\2023-05-07\\00079-516150314.png (((night))), ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " (face:1.5), people, 1girl, 1boy, 1 woman, EasyNegative, (low quality worst quality:1.4), art by bad-artist, normal quality, painting, drawing, sketch, cartoon, anime, render, 3d, blurry, deformed, disfigured, morbid, mutated, bad anatomy, bad art, galaxy, (milky way), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "1979575380",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.5"
+        "Date": 1683498261.129
     },
     "00258-3891014383.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "<lora:1MbLORATrainedIn5MinsThatDoes_1:1>  <lora:AhriCoven-000011:0.3>, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " (person), (girl), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "3891014383",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "0.7"
+        "Date": 1683506824.106
     },
-    "00036-1337321635 (1).jpg": {},
-    "00050-3116786778.jpg": {},
-    "00060-1232636336.jpg": {},
-    "00076-23734907.jpg": {},
+    "00036-1337321635 (1).jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "I remembered each flash",
+        "Negative Prompt": " blur, Modern city, ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "1337321635",
+        "Date": 1683586718.793
+    },
+    "00050-3116786778.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "((So give me reason",
+        "Negative Prompt": "g)), Modern city, ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "3116786778",
+        "Date": 1683588479.518
+    },
+    "00060-1232636336.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "((To wash this memory clean",
+        "Negative Prompt": "ross)), ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "1232636336",
+        "Date": 1683589347.373
+    },
+    "00076-23734907.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "((So give me reason",
+        "Negative Prompt": "g",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "7",
+        "Seed": "23734907",
+        "Date": 1683590233.315
+    },
     "00083-3202567339.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "2.5",
         "Seed": "3202567339",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1683590641.379
     },
     "00080-3869137718.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "end of the world ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ((pointy)), (rocks), (mountains), (wings), (milky way), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft",
         "Steps": "20",
         "Sampler": "DPM2 Karras",
         "CFG scale": "7",
         "Seed": "3869137718",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1683847261.105
     },
     "00053-3707856895.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "end of the world ( extremely detailed CG unity 8k wallpaper) bright eye view, dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,  stars",
         "Negative Prompt": " milky way (girl), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft",
         "Steps": "20",
         "Sampler": "UniPC",
         "CFG scale": "7",
         "Seed": "3707856895",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1683865406.328
     },
-    "00128-2279475185.jpg": {},
-    "00139-2279475188.jpg": {},
-    "00159-400994847.jpg": {},
+    "00128-2279475185.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "night  festival, magical <lora:RAL-000012:1>",
+        "Negative Prompt": "er: DPM++ SDE Karras, CFG scale: 2.5, Seed: 2279475185, Size: 912x512, Model hash: 4d91c4c217, Model: lyriel_v15, Denoising strength: 0.7, Hires upscale: 2, Hires upscaler: Latent",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "2.5",
+        "Seed": "2279475185",
+        "Date": 1683935505.771
+    },
+    "00139-2279475188.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "magical <lora:RAL-000012:1>",
+        "Negative Prompt": "er: DPM++ SDE Karras, CFG scale: 2.5, Seed: 2279475188, Size: 912x512, Model hash: 4d91c4c217, Model: lyriel_v15, Denoising strength: 0.7, Hires upscale: 2, Hires upscaler: Latent",
+        "Steps": "20",
+        "Sampler": "DPM++ SDE Karras",
+        "CFG scale": "2.5",
+        "Seed": "2279475188",
+        "Date": 1683935936.309
+    },
+    "00159-400994847.jpg": {
+        "Model": "lyriel_v15",
+        "Prompt": "magical sunset <lora:RAL-000012:1>",
+        "Negative Prompt": "er: Euler, CFG scale: 2.5, Seed: 400994847, Size: 912x512, Model hash: 4d91c4c217, Model: lyriel_v15, Denoising strength: 0.7, Hires upscale: 2, Hires upscaler: Latent",
+        "Steps": "20",
+        "Sampler": "Euler",
+        "CFG scale": "2.5",
+        "Seed": "400994847",
+        "Date": 1683936431.268
+    },
     "00244-1170467529.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "beauitful night stars in front of a person,  magic waters, dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha, ( extremely detailed CG unity 8k wallpaper) <lora:RAL-000012:1>",
         "Negative Prompt": " ((border, black sides)) (rocks)(girl, face, person, human), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, milky way, ((clouds))",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "1170467529",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1684010857.64
     },
     "00265-516033998.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "beauitful night stars ,  magic waters, dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha, ( extremely detailed CG unity 8k wallpaper) <lora:RAL-000012:1>",
         "Negative Prompt": " ((border, black sides)) (rocks)(girl, face, person, human), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, milky way, ((clouds))",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "3.5",
         "Seed": "516033998",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1684012001.984
     },
     "00363-271967350.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "eldritch abomination, horror, monster, abstract, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ((border, black sides)) (rocks), (towers) (girl, face, person, human), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, milky way, ((clouds)), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "271967350",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1684026221.14
     },
     "00050-1104484431.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "((horror)) <lora:ruinsAndLight_v10:0.6> ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield india destroyed, birds eye view , dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha",
         "Negative Prompt": "  ((border, black sides)) (rocks), (towers) (girl, face, person, human), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, milky way, ((clouds)), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "2.5",
         "Seed": "1104484431",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1684042515.423
     },
     "00174-3061539267.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "massive  (crucific) ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield , birds eye view , dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha <lora:RAL-000012:0.6>",
         "Negative Prompt": "  ((border, black sides)) (rocks), (towers) (girl, face, person, human), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, milky way, ((clouds)), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "3061539267",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "0.7"
+        "Date": 1684105607.048
     },
     "00095-311964830.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "((best quality)), ((masterpiece)), (detailed), (realistic), Abstract, Salvador Dali, The Persistence of Memory, mythological, ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), octane render, ultra high res, ultra-detailed, photon mapping, physically-based rendering, ue5, ((island sanctuary)), ((ancient fallen kingdom)), ((reflections in water)), ((raytracing)), ((drowned city)) (((night)))",
         "Negative Prompt": " ((girl, person)), 3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular, over saturated, over saturated, over saturated, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "311964830",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.3"
+        "Date": 1684195595.218
     },
     "00096-311964831.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "((best quality)), ((masterpiece)), (detailed), (realistic), Abstract, Salvador Dali, The Persistence of Memory, mythological, ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), octane render, ultra high res, ultra-detailed, photon mapping, physically-based rendering, ue5, ((island sanctuary)), ((ancient fallen kingdom)), ((reflections in water)), ((raytracing)), ((drowned city)) (((night)))",
         "Negative Prompt": " ((girl, person)), 3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular, over saturated, over saturated, over saturated, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "311964831",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.3"
+        "Date": 1684195712.34
     },
     "00071-11815681955.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "the end of the world, ((ocean tsunami)), fantasy boat, ((best quality)), ((masterpiece)), (detailed), (realistic), Abstract, Salvador Dali, The Persistence of Memory, mythological, ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ((girls)), 3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular, over saturated, over saturated, over saturated, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "11815681955",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.3"
+        "Date": 1684280958.403
     },
     "00114-4068024856.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "the end of the world, ((ocean tsunami)), ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ((girls)), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "4068024856",
-        "Model": "lyriel_v15",
-        "Denoising strength": "True"
+        "Date": 1684296689.358
     },
     "00014-4068024857.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "the end of the world, ((ocean tsunami)), ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ((girls)), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "4068024857",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1684364370.235
     },
     "00036-2393911922.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "horror  <lora:ruinsAndLight_v10:0.6>, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ((border, black sides)) (rocks), (towers) (girl, face, person, human), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, milky way, ((clouds)), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "2393911922",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1684040975.802
     },
     "00000-3201228999.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "((ascension of god)), (pillar of light into the sky on a massive mountain) <lora:RAL-000012:0.6>",
         "Negative Prompt": " ((girl)) ((black border. black))",
         "Steps": "20",
         "Sampler": "Euler a",
         "CFG scale": "7",
         "Seed": "3201228999",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.75"
+        "Date": 1684463379.152
     },
     "00078-859414509.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "fantastic",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "859414509",
-        "Model": "dreamshaper_5BakedVae",
-        "Denoising strength": "0.7"
+        "Date": 1684540745.93
     },
     "00056-3139861988.jpg": {
+        "Model": "digitalDiffusion_v10",
         "Prompt": "photograph, cyberpunk, neon, rain, detailed, reflections, lights, motorcycle, ((best quality)), ((masterpiece)), (detailed), (realistic), Abstract, Salvador Dali, The Persistence of Memory, mythological",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, 3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular, over saturated, over saturated, over saturated",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "3",
         "Seed": "3139861988",
-        "Model": "digitalDiffusion_v10",
-        "Denoising strength": "0.6"
+        "Date": 1684559997.176
     },
-    "gog_Lithography_colourful_art_by_Michelangelo_god_of_wrath_stro_255f383e-f448-4850-aca7-5bb8fbfcecfc.jpg": {},
-    "gog_Lithography_colourful_art_by_Michelangelo_god_of_wrath_stro_e5425161-af6f-4154-b3e5-4a968ba181ca.jpg": {},
+    "gog_Lithography_colourful_art_by_Michelangelo_god_of_wrath_stro_255f383e-f448-4850-aca7-5bb8fbfcecfc.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Lithography colourful art by Michelangelo god of wrath, strom coming, huge waves, terrifying god of death judging in esoteric tantric hell Temple, huge mirror reflecting the past Concept art, wide angle shot, oriental fantasy, insanely detailed and intricate, golden ratio, hypermaximalist, matte painting, cinematic, cgsociety, moebius strip --ar 1:2 --q 2",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1684695649.923,
+        "Title": "Something cool"
+    },
+    "gog_Lithography_colourful_art_by_Michelangelo_god_of_wrath_stro_e5425161-af6f-4154-b3e5-4a968ba181ca.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Lithography colourful art by Michelangelo god of wrath, strom coming, huge waves, terrifying god of death judging in esoteric tantric hell Temple, huge mirror reflecting the past Concept art, wide angle shot, oriental fantasy, insanely detailed and intricate, golden ratio, hypermaximalist, matte painting, cinematic, cgsociety, moebius strip --ar 1:2 --q 2",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1684695766.944,
+        "Title": "The pilgrim"
+    },
     "00044-172618973.jpg": {
+        "Model": "digitalDiffusion_v10",
         "Prompt": "a merciful god, ( extremely detailed CG unity 8k wallpaper) dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "172618973",
-        "Model": "digitalDiffusion_v10",
-        "Denoising strength": "0.7"
+        "Date": 1684696138.876
     },
     "00054-2791721232.jpg": {
+        "Model": "digitalDiffusion_v10",
         "Prompt": "a merciful ( male, angry )god, ( extremely detailed CG unity 8k wallpaper) dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "2791721232",
-        "Model": "digitalDiffusion_v10",
-        "Denoising strength": "0.7"
+        "Date": 1684697135.313
     },
     "00115-2638633067.jpg": {
+        "Model": "digitalDiffusion_v10",
         "Prompt": "a merciful king ( extremely detailed CG unity 8k wallpaper) dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, ",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "6",
         "Seed": "2638633067",
-        "Model": "digitalDiffusion_v10",
-        "Denoising strength": "0.3"
+        "Date": 1684707270.71
     },
     "00053.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "A real photographic landscape painting with incomparable reality, Super wide, Ominous sky, Sailing boat, Wooden boat, Lotus, Huge waves, Starry night, Harry potter, Volumetric lighting, Clearing, Realistic, James gurney, artstation, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha <lora:RAL-000012:0.6>",
         "Negative Prompt": " A real photographic landscape painting with incomparable reality, Super wide, Ominous sky, Sailing boat, Wooden boat, Lotus, Huge waves, Starry night, Harry potter, Volumetric lighting, Clearing, Realistic, James gurney, artstation, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha",
         "Steps": "30",
         "Sampler": "DPM adaptive",
         "CFG scale": "7",
         "Seed": "3246533223",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.7"
+        "Date": 1684886635.126
     },
-    "00014-3437369227.jpg": {},
+    "00014-3437369227.jpg": {
+        "Model": "dreamshaper_4BakedVae",
+        "Prompt": "The sound of silence, detailed illustration, digital art, overdetailed art, concept art, highly saturated colors, detailed illustration, hd, 4k, digital art, overdetailed art, concept art, Dan Mumford, Krzysztof Maziarz, trending on artstation ",
+        "Negative Prompt": "tsSamYang_offset:0.2>",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "3437369227",
+        "Date": 1681949755.175
+    },
     "00004-861551409.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "beauitful night stars, fantasy boat, magic waters, dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha, ( extremely detailed CG unity 8k wallpaper) <lora:RAL-000012:1>",
         "Negative Prompt": " : ((border, black sides)) (rocks)(girl, face, person, human), (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, milky way, ((clouds))",
         "Steps": "30",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "861551409",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.25"
+        "Date": 1684888894.259
     },
     "00028-3476976708.jpg": {
+        "Model": "lyriel_v15",
         "Prompt": "((best quality)), ((masterpiece)), (detailed), (realistic), Abstract, Salvador Dali, The Persistence of Memory, mythological, ( extremely detailed CG unity 8k wallpaper) birds eye view , dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,, (8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), octane render, ultra high res, ultra-detailed, photon mapping, physically-based rendering, ue5, ((island sanctuary)), ((ancient fallen kingdom)), ((reflections in water)), ((raytracing)), ((drowned city)) (((night)))",
         "Negative Prompt": "  ((girl, person)), 3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular, over saturated, over saturated, over saturated, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "7",
         "Seed": "3476976708",
-        "Model": "lyriel_v15",
-        "Denoising strength": "0.3"
+        "Date": 1684899541.804
     },
     "00098-1762213568.jpg": {
+        "Model": "digitalDiffusion_v10",
         "Prompt": "a merciful alien being ( extremely detailed CG unity 8k wallpaper) dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "DPM++ SDE Karras",
         "CFG scale": "6",
         "Seed": "1762213568",
-        "Model": "digitalDiffusion_v10",
-        "Denoising strength": "0.7"
+        "Date": 1684699836.824
     },
-    "00106-4024301406.jpg": {},
+    "00106-4024301406.jpg": {
+        "Model": "dreamshaper_4BakedVae",
+        "Prompt": "artstation, 8K resolution, shipyard, fleet of ships, ocean metropolis, megacity, ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
+        "Negative Prompt": " (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
+        "Steps": "20",
+        "Sampler": "Euler",
+        "CFG scale": "7",
+        "Seed": "4024301406",
+        "Date": 1680468316.275
+    },
     "00490-3005674302.jpg": {
+        "Model": "dreamshaper_5BakedVae",
         "Prompt": "beautiful girl, ((perfect face)), (((full body))), (1 girl), hdr, (natural skin texture, hyperrealism, soft light, sharp:1.2), game art, key visual, surreal , soft female abs, ( extremely detailed CG unity 8k wallpaper) , ((short red hair)), ( extremely detailed CG unity 8k wallpaper) ancient magical battlefield of rome destroyed, birds eye view , dark skies, oil on matte canvas, sharp details, intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha",
         "Negative Prompt": "  (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "3005674302",
-        "Model": "a60cfaa90d",
-        "Denoising strength": "dreamshaper_5BakedVae"
+        "Date": 1684901895.27
     },
-    "00723-3782542981.jpg": {},
-    "00031-818502327.jpg": {},
+    "00723-3782542981.jpg": {
+        "Model": "revAnimated_v122",
+        "Prompt": "God in an ethereal gas cloud nebula, tarot card painted by yoann lossel and peter mohrbacher and with multiple matte black boarders on black paper background, gold foil accents, ((ascension))",
+        "Negative Prompt": " (worst quality:1.4), (low quality:1.4), (normal quality:1.4), lowres,claws, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "3782542981",
+        "Date": 1682308810.002
+    },
+    "00031-818502327.jpg": {
+        "Model": "revAnimated_v122",
+        "Prompt": "horror in ethereal gas cloud nebula, painted by yoann lossel and peter mohrbacher and with multiple matte black,",
+        "Negative Prompt": " (worst quality:1.4), (low quality:1.4), (normal quality:1.4), lowres,claws, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
+        "Steps": "20",
+        "Sampler": "Euler a",
+        "CFG scale": "7",
+        "Seed": "818502327",
+        "Date": 1682309468.625
+    },
     "00080-4137691105.jpg": {
+        "Model": "digitalDiffusion_v10",
         "Prompt": "a merciful alien being, ( extremely detailed CG unity 8k wallpaper) dark skies, oil on matte canvas, sharp details,  intricate, highly detailed, digital painting, rich color, smooth, sharp focus, illustration, Unreal Engine 5, 8K, art by artgerm and greg rutkowski and alphonse mucha,",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (worst quality, low quality:1.4), (blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, reference sheet, plump, fat, muscular female, strabismus, out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "4137691105",
-        "Model": "digitalDiffusion_v10",
-        "Denoising strength": "0.7"
+        "Date": 1684902141.283
     },
-    "gog_Shimmering_crystalline_man_by_bujbal--v_5_95517778-fd76-49d2-822d-f11eedadf498.jpg": {},
-    "gog_A_painting_on_black_paper_showing_a_beautiful_night_sky_and_9136bf3a-0f42-4964-9952-6cf20e6d9dc1.jpg": {},
+    "gog_Shimmering_crystalline_man_by_bujbal--v_5_95517778-fd76-49d2-822d-f11eedadf498.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Shimmering crystalline man by bujbal",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1685048831.594,
+        "Title": "Mankind's Reckoning"
+    },
+    "gog_A_painting_on_black_paper_showing_a_beautiful_night_sky_and_9136bf3a-0f42-4964-9952-6cf20e6d9dc1.jpg": {
+        "Model": "midjourney",
+        "Prompt": "A painting on black paper showing a beautiful night sky and a village, in the style of art nouveau organic flowing lines, futuristic chromatic waves, intricate and bizarre illustrations, swirling vortexes, detailed character illustrations, colorful turbulence, high resolution",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1685049657.063,
+        "Title": "Fate Mechanics"
+    },
     "00036-3328611020.jpg": {
+        "Model": "digitalDiffusion_v10",
         "Prompt": "Art by Vincent Di Fate Inspired by As you approach W\u00e9ofol, the first thing that catches your attention is the towering skyscrapers reaching towards the sky, reaching impressive heights. These towers are adorned with intricate details, luminous filigrees that glow intensely at night, illuminating the skyline and creating a spectacle of colors that reflect the magic and power contained within the city, professional lighting, cinematic lighting, long shadows, saturated contrast, hyperdetailed, 32k, ((Studio Ghibli)) and Greg Rutkowski, artstation, surreal,cinematic shot, hayao miyazaki art style, vibrant",
         "Negative Prompt": " ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
         "Steps": "20",
         "Sampler": "Euler",
         "CFG scale": "7",
         "Seed": "3328611020",
-        "Model": "digitalDiffusion_v10",
-        "Denoising strength": "0.7"
+        "Date": 1685052688.844
+    },
+    "gog1.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Transparent ghost, salvador dali, mystery, swirls, small glitters, hyperrealism, high resolution, very sharp, highly detailed, fantasy, surreal --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1685249737.421,
+        "Title": "The future seen in the past"
+    },
+    "gog3.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Man walking through a fantastical death valley near a river, in the style of james gilleard, stone sculptures, alex andreev, faceted forms, becky cloonan, impressive panoramas, gigantic scale --v 5 -- ar 9:16",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1685253130.631,
+        "Title": "The Shattered Plains in 1000 years"
+    },
+    "gog4.jpg": {
+        "Model": "midjourney",
+        "Prompt": "Colorized massive tower of Babel at night, slight waves, night sky in the style of graphic novel inspired illustrations, intricate landscapes, guatemalan art, # pixelart, poster art, sublime wilderness, high - contrast shading --ar 9:16 --v 5",
+        "Negative Prompt": "--",
+        "Steps": "--",
+        "Sampler": "--",
+        "CFG scale": "--",
+        "Seed": "--",
+        "Date": 1685253878.047,
+        "Title": "Ominous City by Night"
     }
 }

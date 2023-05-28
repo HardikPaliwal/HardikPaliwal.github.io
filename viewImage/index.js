@@ -1,7 +1,7 @@
 const imgId = window.location.search.split("?imageId=")[1];
 
 const img = document.createElement('img');
-img.setAttribute("src", `../images/${imgId}`)
+img.setAttribute("src", `../images/raw/${imgId}`)
 img.setAttribute("id", "image")
 document.getElementById("imageContainer").appendChild(img)
 
@@ -21,8 +21,9 @@ async function fetchMetaData() {
     document.getElementById("sampler").innerText = imgData.Sampler
     document.getElementById("seed").innerText = imgData.Seed
     document.getElementById("cfgScale").innerText = imgData["CFG scale"]
-        document.getElementById("steps").innerText = imgData.Steps
-
+    document.getElementById("steps").innerText = imgData.Steps
+    document.getElementById("date").innerText =new Date( imgData.Date * 1000).toLocaleString()
+    document.getElementById("title").innerText =imgData.Title
   })
 
 

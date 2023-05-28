@@ -1,6 +1,7 @@
 body {
     overflow-y: scroll;
     background: black;
+    color-scheme: dark;
 }
 :root {
     color:black;
@@ -10,13 +11,19 @@ a {
     border: none;
 }
 
+.imageLink{
+    display: block;
+    margin-bottom: 0;
+    font-size: 0;
+    
+}
+
 #returnHome {
     padding: 1rem 4rem;
     border: 0.1rem white solid;
 }
 #returnHome:hover{
     border-color: #ff828a;
-
 }
 #mainGallery {
     display: grid;
@@ -30,7 +37,8 @@ a {
 }
 
 .galleryImage:hover {
-    box-shadow: inset 0 0px 8px 200px rgba(255, 253, 253, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    outline:4px solid #ff828a;
+    outline-offset:-3px;
   }
 
 @media (max-width: 1200px) {

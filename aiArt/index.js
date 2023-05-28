@@ -10,8 +10,9 @@ for (const [key, value] of Object.entries(data).reverse()) {
     const a = document.createElement("a")
     // <a href="../viewImage/viewImage.html?imageId=00018-3327410829.jpg">
     a.setAttribute("href", "../viewImage/viewImage.html?imageId=" + key )
+    a.setAttribute("class", "imageLink")
     const img = document.createElement('img');
-    img.setAttribute("src", `../images/${"THUMBNAIL-" + key}`)
+    img.setAttribute("src", `../images/thumbnails/${key}`)
     img.setAttribute("class", "galleryImage")
     img.setAttribute("loading", "lazy")
     a.appendChild(img)
