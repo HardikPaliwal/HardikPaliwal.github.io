@@ -24,7 +24,7 @@ manualPrompt = {
         "Model" : "midjourney-v5",
         "Prompt": "Transparent ghost, salvador dali, mystery, swirls, small glitters, hyperrealism, high resolution, very sharp, highly detailed, fantasy, surreal --v 5",
         "Negative Prompt" : "--",
-        "Title" : "The future seen in the past"
+        "Title" : "The future seen in the past. ft. Salvador Dali"
     }, 
     "gog3" : {
         "Model" : "midjourney-v5",
@@ -78,7 +78,7 @@ manualPrompt = {
         "Model" : "midjourney-v5",
         "Prompt": "Road leading to the distance, artstation, night, dark horror, atmosphere, artgerm, greg rutkowski, red moon in the distance --v 5 --ar 2:3",
         "Negative Prompt": "--",
-        "Title": "A Road better left untravelled"
+        "Title": "A road better left untravelled"
     },
     "gog_Low_angle_image_of_magneto_in_a_tense_action_-_packed_scene_456bf1ce-43f5-4ad5-a619-18db9d3b17e0": {
         "Model" : "midjourney-v5",
@@ -102,19 +102,19 @@ manualPrompt = {
         "Model" : "midjourney-v5",
         "Prompt": "Man made up of lightning in the style Hajime Isayama& Alex Horley& Sergio Toppi --ar 2:3 --v 5",
         "Negative Prompt": "--",
-        "Title": "Main Character Vibes"
+        "Title": "Elizabeth holmes starring in venom"
     },
     "gog_a_blood_devil_in_the_style_Hajime_Isayama_Alex_Horley_Sergi_e758bfb5-51ae-4c36-9b8a-8e1cbfc539d0": {
         "Model" : "midjourney-v5",
         "Prompt": "Creepy woman with the venom symbiote, dark fantasy, in the style of ross tran --ar 1:2 --v 5",
         "Negative Prompt": "--",
-        "Title": "Elizabeth holmes staring in venom"
+        "Title": "Blood and Darkness"
     },
     "gog_man_made_up_of_lightning_in_the_style_Hajime_Isayama_Alex_H_f09529b1-e8ee-4328-8243-907cd94cd119": {
         "Model" : "midjourney-v5",
         "Prompt": "A blood devil in the style Hajime Isayama& Alex Horley& Sergio Toppi --ar 2:3 --v 5",
         "Negative Prompt": "--",
-        "Title": "Blood and Dark"
+        "Title": "Main Character Vibes"
     },
     "gog_God_in_the_style_of_Hajime_Isayama_Alex_Horley_Sergio_Toppi_5dea9f30-00e0-4706-bf5f-3ec63fab6703": {
         "Model" : "midjourney-v5",
@@ -132,7 +132,7 @@ manualPrompt = {
         "Model" : "dreamshaperv4",
         "Prompt": "night festival, magical scene <lora:ruinsAndLight_v10:1>",
         "Negative Prompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy",
-        "Title": "A King's Dream"
+        "Title": "Night Festival 6"
     },
     "gog_Lithography_colourful_art_by_Michelangelo_god_of_wrath_stro_255f383e-f448-4850-aca7-5bb8fbfcecfc": {
         "Model" : "midjourney-v4",
@@ -157,6 +157,378 @@ manualPrompt = {
         "Prompt": "A painting on black paper showing a beautiful night sky and a village, in the style of art nouveau organic flowing lines, futuristic chromatic waves, intricate and bizarre illustrations, swirling vortexes, detailed character illustrations, colorful turbulence, high resolution",
         "Negative Prompt": "--",
         "Title": "Fate Mechanics"
+    },
+    "00031" : {
+        "Title": "Hogwarts long lost cousin",
+        "WriteUp" : ""
+    },
+    "00152-243332738" : {
+        "Title": "Collapse of Rome, 2023",
+        "WriteUp" : ""
+    },
+    "00036" : {
+        "Title": "The Necromancer in magic school",
+        "WriteUp" : ""
+    },
+    "00038" : {
+        "Title": "Alternate Reality 1",
+        "WriteUp" : ""
+    },
+    "00039" : {
+        "Title": "Zeus's abode ",
+        "WriteUp" : ""
+    },
+    "00429-250449126" : {
+        "Title": "The last sign",
+        "WriteUp" : ""
+    },
+    "00693-411154658" : {
+        "Title": "I need a vacation",
+        "WriteUp" : ""
+    },
+    "00740-411154669" : {
+        "Title": "Always a taller peak",
+        "WriteUp" : ""
+    },
+    "00772-411154671" : {
+        "Title": "Hell's Church",
+        "WriteUp" : ""
+    },
+    "00798-411154658" : {
+        "Title": "The Sultan's domain",
+        "WriteUp" : ""
+    },
+    "00061-641389070" : {
+        "Title": "Tokyo 1",
+        "WriteUp" : ""
+    },
+    "00003-3640860567" : {
+        "Title": "Wonders of the City",
+        "WriteUp" : ""
+    },
+    "00021-2042024878" : {
+        "Title": "Wonders of the Treehouse",
+        "WriteUp" : ""
+    },
+    "00038-209373098" : {
+        "Title": "Somewhere, sometime, this mountain exists",
+        "WriteUp" : ""
+    },
+    "00033-1182751684" : {
+        "Title": "Athens 1",
+        "WriteUp" : ""
+    },
+    "00726-4111332528" : {
+        "Title": "Todo: Cut down magic tree. Your's truly, the Human race",
+        "WriteUp" : ""
+    },
+    "00719-3834343332" : {
+        "Title": "Pandora",
+        "WriteUp" : ""
+    },
+    "00031-2142437544" : {
+        "Title": "Dare you to go inside",
+        "WriteUp" : ""
+    },
+    "00509-2636522860" : {
+        "Title": "Night Festival",
+        "WriteUp" : ""
+    },
+    "00489-2937580195" : {
+        "Title": "Night Festival 2",
+        "WriteUp" : ""
+    },
+    "00514-818386911" : {
+        "Title": "Night Festival 3",
+        "WriteUp" : ""
+    },
+    "00503-642708405" : {
+        "Title": "Night Festival 4",
+        "WriteUp" : ""
+    },
+    "00015-487427391" : {
+        "Title": "Want a Space Dragon?",
+        "WriteUp" : ""
+    },
+    "00137-1353200471" : {
+        "Title": "The Chainbreaker. Heracles on Olympia, Virtuous Sons",
+        "WriteUp" : ""
+    },
+    "00122-3067904967" : {
+        "Title": "Looks like an orc hideout, smells like an orc hideout...",
+        "WriteUp" : ""
+    },
+    "00131-2716900311" : {
+        "Title": "Brb, booking a flight to Greenland",
+        "WriteUp" : ""
+    },
+    "00149-2716900311" : {
+        "Title": "Just anime things",
+        "WriteUp" : ""
+    },
+    "00036 original" : {
+        "Title": "The upside down",
+        "WriteUp" : ""
+    },
+    "00042-280177144" : {
+        "Title": "Prequel to `The Mummy` 1",
+        "WriteUp" : ""
+    },
+    "00068-1741522760" : {
+        "Title": "Prequel to `The Mummy` 2",
+        "WriteUp" : ""
+    },
+    "00112-968907745" : {
+        "Title": "dw, you can pet him",
+        "WriteUp" : ""
+    },
+    "00125-2427434854" : {
+        "Title": "Harem 1",
+        "WriteUp" : ""
+    },
+    "00129-1981414666" : {
+        "Title": "Flat earthers rejoice!",
+        "WriteUp" : ""
+    },
+    "00018-3327410829" : {
+        "Title": "Durin's kingdom",
+        "WriteUp" : ""
+    },
+    "00039-1712406783" : {
+        "Title": "Harem 2",
+        "WriteUp" : ""
+    },
+    "00118-4282801278" : {
+        "Title": "Prince of nothing, Prince of nowhere, Prince of Noone",
+        "WriteUp" : ""
+    },
+    "00009-2363580985" : {
+        "Title": "Narnia ain't got shit on me",
+        "WriteUp" : ""
+    },
+    "00040-3614393704" : {
+        "Title": "Alternate Egypt, 2023",
+        "WriteUp" : ""
+    },
+    "00018-479504246" : {
+        "Title": "The sacking of Rome, Virtuous Sons",
+        "WriteUp" : ""
+    },
+    "00067-1062072553" : {
+        "Title": "Stone hedge in Rome",
+        "WriteUp" : ""
+    },
+    "00033-3920862506" : {
+        "Title": "Sir, you are ordained",
+        "WriteUp" : ""
+    },
+    "00117-2055791717" : {
+        "Title": "Somewhere in Romania, 2023",
+        "WriteUp" : ""
+    },
+    "00122-2762857694" : {
+        "Title": "Sozins comet, Earth 2023",
+        "WriteUp" : ""
+    },
+    "00124-2762857696" : {
+        "Title": "Cool vibes, 2023",
+        "WriteUp" : ""
+    },
+    "00126-3575865842" : {
+        "Title": "If romans landed in Pandora",
+        "WriteUp" : ""
+    },
+    "00130-1979575380" : {
+        "Title": "Cool vibes, 2023",
+        "WriteUp" : ""
+    },
+    "00258-3891014383" : {
+        "Title": "Mad Max, 239 AD",
+        "WriteUp" : ""
+    },
+    "00036-1337321635 (1)" : {
+        "Title": "Oscorp Industries at least has style",
+        "WriteUp" : ""
+    },
+    "00050-3116786778" : {
+        "Title": "Messy",
+        "WriteUp" : ""
+    },
+    "00060-1232636336" : {
+        "Title": "Laketown, post Smaug",
+        "WriteUp" : ""
+    },
+    "00076-23734907" : {
+        "Title": "Hurts",
+        "WriteUp" : ""
+    },
+    "00083-3202567339" : {
+        "Title": "Alternate Dolomites",
+        "WriteUp" : ""
+    },
+    "00080-3869137718" : {
+        "Title": "Steampunk 1",
+        "WriteUp" : ""
+    },
+    "00053-3707856895" : {
+        "Title": "Uncanny valley",
+        "WriteUp" : ""
+    },
+    "00128-2279475185" : {
+        "Title": "Night Festival 5",
+        "WriteUp" : ""
+    },
+    "00139-2279475188" : {
+        "Title": "Oh so small but so beautiful",
+        "WriteUp" : ""
+    },
+    "00159-400994847" : {
+        "Title": "Sunset painting 1",
+        "WriteUp" : ""
+    },
+    "00244-1170467529" : {
+        "Title": "Lady of the lake, King Arther",
+        "WriteUp" : ""
+    },
+    "00265-516033998" : {
+        "Title": "Too beautiful for Berserk",
+        "WriteUp" : ""
+    },
+    "00363-271967350" : {
+        "Title": "Eldritch abomination 1",
+        "WriteUp" : ""
+    },
+    "00031-682031962" : {
+        "Title": "Look carefully...",
+        "WriteUp" : ""
+    },
+    "00050-1104484431" : {
+        "Title": "THEY CAN WALK",
+        "WriteUp" : ""
+    },
+    "00174-3061539267" : {
+        "Title": "Hill of crosses, Lithuania, ft. Berserk",
+        "WriteUp" : ""
+    },
+    "00095-311964830" : {
+        "Title": "Skavengard, The Ember blade",
+        "WriteUp" : ""
+    },
+    "00096-311964831" : {
+        "Title": "Pathway to Heaven",
+        "WriteUp" : ""
+    },
+    "00071-11815681955" : {
+        "Title": "Pacific rim vibes",
+        "WriteUp" : ""
+    },
+    "00114-4068024856" : {
+        "Title": "Olympia in the distance, Virtuous sons",
+        "WriteUp" : ""
+    },
+    "00014-4068024857" : {
+        "Title": "Terraforming",
+        "WriteUp" : ""
+    },
+    "00036-2393911922" : {
+        "Title": "The Acropolis, Athens.ft berserk",
+        "WriteUp" : ""
+    },
+    "00000-3201228999" : {
+        "Title": "Olympia, Virtuous sons",
+        "WriteUp" : ""
+    },
+    "00134-840276229" : {
+        "Title": "Faith",
+        "WriteUp" : ""
+    },
+    "00078-859414509" : {
+        "Title": "Realistic 1",
+        "WriteUp" : ""
+    },
+    "00056-3139861988" : {
+        "Title": "Is it Cyberpunk or just any city in the rain?",
+        "WriteUp" : ""
+    },
+    "00044-172618973" : {
+        "Title": "Larger then life 1",
+        "WriteUp" : ""
+    },
+    "00054-2791721232" : {
+        "Title": "Larger then life 2",
+        "WriteUp" : ""
+    },
+    "00115-2638633067" : {
+        "Title": "Space marines",
+        "WriteUp" : ""
+    },
+    "00053" : {
+        "Title": "Serenity",
+        "WriteUp" : ""
+    },
+    "00014-3437369227" : {
+        "Title": "Thoughts",
+        "WriteUp" : ""
+    },
+    "00004-861551409" : {
+        "Title": "This boat has been places",
+        "WriteUp" : ""
+    },
+    "00028-3476976708" : {
+        "Title": "Alternate Earth 1",
+        "WriteUp" : ""
+    },
+    "00098-1762213568" : {
+        "Title": "Jelly, Dawn of the void",
+        "WriteUp" : ""
+    },
+    "00106-4024301406" : {
+        "Title": "The Dockmaster",
+        "WriteUp" : ""
+    },
+    "00490-3005674302" : {
+        "Title": "Just another DnD Rogue",
+        "WriteUp" : ""
+    },
+    "00723-3782542981" : {
+        "Title": "Starwielder",
+        "WriteUp" : ""
+    },
+    "00031-818502327" : {
+        "Title": "Darkness",
+        "WriteUp" : ""
+    },
+    "00080-4137691105" : {
+        "Title": "Don't stick in Crazy",
+        "WriteUp" : ""
+    },
+    "00036-3328611020" : {
+        "Title": "Studio Ghibli + Cyperpunk",
+        "WriteUp" : ""
+    },
+    "00020-138147946" : {
+        "Title": "Tribulation, ft Heracles",
+        "WriteUp" : ""
+    },
+    "00009-3753058594" : {
+        "Title": "Arc de Trimph, Alternate Paris, 200 AD",
+        "WriteUp" : ""
+    },
+    "00022-2174469114" : {
+        "Title": "The mother",
+        "WriteUp" : ""
+    },
+    "00282-2561081717" : {
+        "Title": "Shardblade in transformation, Stormlight Archive",
+        "WriteUp" : ""
+    },
+    "00000-2714753934" : {
+        "Title": "Majestic",
+        "WriteUp" : ""
+    },
+    "00029-1332266322" : {
+        "Title": "She dreams of fire and ruin",
+        "WriteUp" : ""
     },
 
 }
@@ -184,12 +556,11 @@ for imagePath in images:
         imagesMetaData[fileName+".jpg"] = metadata
 
         if (len(fileName) > 3 and fileName[0:3] == "gog"):
-            metadata["Model"] = "midjourney"
+            metadata["Model"] = manualPrompt[fileName]["Model"]
             metadata["Prompt"] = manualPrompt[fileName]["Prompt"]
             metadata["Title"] = manualPrompt[fileName]["Title"]
             continue
         if (not "parameters" in image.text):
-            print(fileName)
             metadata["Model"] = manualPrompt[fileName]["Model"]
             metadata["Prompt"] = manualPrompt[fileName]["Prompt"]
             metadata["Title"] = manualPrompt[fileName]["Title"]
@@ -204,11 +575,12 @@ for imagePath in images:
         metadata["CFG scale"] = toParse.split('CFG scale: ')[1].split(',')[0]
         metadata["Seed"] = toParse.split('Seed: ')[1].split(',')[0]
         metadata["Model"] = toParse.split('Model: ')[1].split(',')[0]
-
+        if (fileName in manualPrompt):
+            metadata["Title"] = manualPrompt[fileName]["Title"]
     except Exception as e:
-        # print(fileName)
-        # print(image.text)
-        # break
+        print(fileName)
+        print(image.text)
+        break
         # print(e)
         pass
 
