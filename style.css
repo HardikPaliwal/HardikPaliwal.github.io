@@ -39,6 +39,8 @@ h1,h2,h3, h6 {
     backdrop-filter:blur(4px);
     -webkit-backdrop-filter: blur(4px);
     margin: 0rem;
+    text-align: center;
+
 }
 
 h1 {
